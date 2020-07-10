@@ -1,0 +1,5 @@
+Planning gol di tahun 2020:
+-menguasai html,css tingkat edvance;
+-bisa/mengerti menggunakan javaScript;
+-menyelesaikan Bigproject;
+-menyelesaikan website portfoio
